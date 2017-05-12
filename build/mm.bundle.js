@@ -51898,9 +51898,9 @@ angular.module('mm.core')
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
     //"siteurl": "http://www.elearning.utamu.ac.ug",
-    "siteurl": "http://www.elearning.ppda.go.ug",
+    "siteurl": "https://elearning.utamu.ac.ug",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
-    "privacypolicy": "http://www.elearning.ppda.go.ug"
+    "privacypolicy": "https://elearning.utamu.ac.ug"
 }
 );

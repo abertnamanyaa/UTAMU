@@ -11,8 +11,8 @@
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
     /*"siteurl": "",*/
-    "presets" : {"url": "http://www.elearning.ppda.go.ug", "username": ""},
+    "presets" : {"url": "https://elearning.utamu.ac.ug", "username": ""},
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
-    "privacypolicy": "http://www.elearning.ppda.go.ug"
+    "privacypolicy": "https://elearning.utamu.ac.ug"
 }
