@@ -51898,9 +51898,9 @@ angular.module('mm.core')
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
     //"siteurl": "http://elearning.utamu.ac.ug",
-    "siteurl": "http://www.financialiteracy.ac.ug",
+    "siteurl": "http://www.8learning.org",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
-    "privacypolicy": "http://www.financialiteracy.ac.ug"
+    "privacypolicy": "http://www.8learning.org"
 }
 );
