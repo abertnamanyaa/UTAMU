@@ -51897,10 +51897,10 @@ angular.module('mm.core')
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    //"siteurl": "http://www.elearning.utamu.ac.ug",
-    "siteurl": "http://www.8learning.org",
+    "siteurl": "http://www.elearning.utamu.ac.ug",
+    //"siteurl": "http://elearning.utamu.ac.ug",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
-    "privacypolicy": "http://www.8learning.org"
+    "privacypolicy": "http://www.elearning.utamu.ac.ug"
 }
 );
